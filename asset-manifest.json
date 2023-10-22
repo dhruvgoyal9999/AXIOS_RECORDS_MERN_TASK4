@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AXIOS_RECORDS_MERN_TASK4/static/css/main.db798329.css",
+    "main.js": "/AXIOS_RECORDS_MERN_TASK4/static/js/main.6c427768.js",
+    "static/js/787.462b490c.chunk.js": "/AXIOS_RECORDS_MERN_TASK4/static/js/787.462b490c.chunk.js",
+    "index.html": "/AXIOS_RECORDS_MERN_TASK4/index.html",
+    "main.db798329.css.map": "/AXIOS_RECORDS_MERN_TASK4/static/css/main.db798329.css.map",
+    "main.6c427768.js.map": "/AXIOS_RECORDS_MERN_TASK4/static/js/main.6c427768.js.map",
+    "787.462b490c.chunk.js.map": "/AXIOS_RECORDS_MERN_TASK4/static/js/787.462b490c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.6c427768.js"
+  ]
+}
